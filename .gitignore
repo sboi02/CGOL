@@ -1,0 +1,8 @@
+# compiled output
+life
+a.out
+*.o
+
+# vim swap files
+*.swp
+*~
